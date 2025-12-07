@@ -1,5 +1,7 @@
+---
 name: java-code-review
 description: Java代码审查技能，通过比较两个git分支进行自动化代码审查
+---
 
 # Java代码审查技能
 
