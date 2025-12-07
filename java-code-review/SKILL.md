@@ -26,7 +26,7 @@ description: Java代码审查技能，通过比较两个git分支进行自动化
 
 3. **分析差异,进行审查**
    - 逐个文件检查问题
-   - 审查可参考 [checklist.md](./reference/checklist.md)
+   - 审查可参考 [checklist.md](./references/checklist.md)
 
 4. **生成报告**
    - 创建Markdown格式报告
